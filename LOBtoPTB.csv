@@ -1,0 +1,157 @@
+LOB,PTB,desc
+!,.,exclamation mark
+&FO,.,formula 7.22
+&FW,FW,foreign word 7.21
+(,-LRB-,left bracket: ( [
+),-RRB-,right bracket ) ]
+*',``,"begin quote: *’ *"" 2.6"
+**',',"end quote: **’ **"" 2.6"
+*_,:,dash 7.24
+*-,:,
+",",",",comma 7.24
+.,.,full stop 7.24
+...,:,ellipsis
+:,:,colon 7.24
+;,:,semicolon 7.24
+?,.,question mark
+ABL,RB,"pre-qualifier (quite, rather, such) 7.12"
+ABN,RB,"pre-quantifier (all, half) 7.12"
+ABX,RB,pre-quantifier/double conjunction (both)
+AP,JJ,"post-determiner (few, fewer, former, last, latter, least, less, little, many, more, most, much, next, only, other, own, same, several, very) 7.12"
+"(AP""",JJ,"a few, a little"
+AP$,JJ,other’s
+APS,JJ,others
+APS$,JJ,others’
+AT,DT,"singular article (a, an, every) 7.12"
+ATI,DT,"singular og plural article (the, no) 7.12"
+BE,VB,be 7.5
+BED,VBD,were
+BEDZ,VBZ,was
+BEG,VBG,being
+BEM,VBP,"am, ‘m"
+BEN,VBN,been
+BER,VBP,"are, ‘re"
+BEZ,VBZ,"is, ‘s"
+CC,CC,"coordinating conjunction (and, and/or, but, nor, only, or, yet) 7.14 - 7.15"
+"(CC""",CC,as well as
+CD,CD,"cardinal (2, 3, etc; two, three, etc; hundred, thousand, etc; dozen, zero) 7.17"
+CD$,CD,cardinal + genitive
+CD-CD,CD,hyphenated pair of cardinals 7.17
+CD1,CD,"one, 1 7.17"
+CD1$,CD,one’s
+CD1S,CD,ones
+CDS,CD,"cardinal + plural (tens, millions, dozens)"
+CS,IN,"subordinating conjunction (after, although,etc)"
+"CS""",IN,x
+"(CS""",IN,"in that, so that, etc"
+DO,VBP,do 7.5
+DOD,VBD,did
+DOZ,VBZ,does
+DT,DT,"singular determiner (another, each, that, this) 7.12"
+DT$,DT,singular determiner + genitive (another’s)
+DTI,DT,"singular or plural determiner (any, enough, some)"
+DTS,DT,"plural determiner (these, those)"
+DTX,DT,"determiner/double conjunction (either, neither) 7.12"
+EX,EX,existensial there 7.10
+HV,VBP,have 7.5
+HVD,VBD,"had, ‘d"
+HVG,VBG,having
+HVN,VBN,had (past participle)
+HVZ,VBZ,"has, ‘s"
+IN,IN,"preposition (about, above, etc) 7.13, 7.15"
+"(IN""",IN,"as to, in spite of, etc"
+JJ,JJ,"adjective 7.3 - 7.4, 7.8 - 7.9, 7.11"
+"(JJ""",JJ,
+JJB,JJ,"attribute-only adjective (chief, entire, mainetc) 7.8"
+"(JJB""",JJ,
+JJR,JJR,"comparative adjective 7.9, 7.11"
+"(JJR""",JJR,
+JJT,JJS,"superlative adjective 7.9, 7.11"
+"(JJT""",JJS,
+JNP,JJ,"adjective with word-initial capital (English, German, etc)"
+MD,MD,"modal auxiliary (‘ll, can, could, etc)"
+NC,NN,cited word 7.23
+NN,NN,"singular common noun 7.4, 7.6, 7.7"
+"(NN""",NN,
+NN$,NN,singular common noun + genitive 7.6
+NNP,NNP,"singular common noun with word-initial capital (Englishman, German, etc)"
+NNP$,NNP,singular common noun with word-initial capital + genitive
+NNPS,NNPS,plural common noun with word-initial capital
+NNPS$,NNPS,plural common noun with word-initial capital + genitive
+NNS,NNS,"plural common noun 7.6, 7.7"
+"(NNS""",NNS,
+NNS$,NNS,plural common noun + genitive
+NNU,NN,"abbreviated unit of measurement unmarked for number (\0hr, \0lb, etc) 7.19"
+"(NNU""",NN,per cent
+NNUS,NNS,"abbreviated plural unit of measurement (\0gns, \0yds, etc)"
+NP,NNP,singular proper noun 7.7
+NP$,NNP,singular proper noun + genitive
+NPL,NNP,"singular locative noun with wordinitial capital (Abbey, Bridge, etc) 7.7"
+NPL$,NNP,singular locative noun with word-initial capital + genitive
+NPLS,NNPS,plural locative noun with word-initial capital
+NPLS$,NNPS,plural locative noun with word-initial capital + genitive
+NPS,NNPS,plural proper noun 7.7
+NPS$,NNPS,plural proper noun + genitive
+NPT,NNP,"singular titular noun with word-initial capital (Archbishop, Captain, etc) 7.7"
+"(NPT""",NNP,
+NPT$,NNP,singular titular noun with word capital + genitive
+NPTS,NNPS,plural titular noun with word-initial capital
+NPTS$,NNPS,plural titular noun with word-initial capital + genitive
+NR,NN,"singular adverbial noun (January, February, etc; Sunday, Monday, etc; east, west, etc; today, tomorrow, tonight, downtown, home) 7.10"
+NR$,NN,singular adverbial noun + genitive
+NRS,NNS,plural adverbial noun
+NRS$,NNS,plural adverbial noun + genitive
+OD,JJ,"ordinal (1st, 2nd, etc; first, second, etc)"
+OD$,JJ,ordinal + genitive
+PN,NN,"nominal pronoun (anybody, anyone, anything; everybody, everyone, everything; nobody, none, nothing; somebody, someone, something; so) 7.12, 7.14"
+"(PN""",NN,"no one, some one"
+PN$,NN,nominal pronoun + genitive
+(PN$,NN,
+PP$,PRP$,"possessive determiner (my, your, etc) 7.12"
+PP$$,JJ,"possessive pronoun (mine, yours, etc)"
+PP1A,PRP,"personal pronoun, 1st pers sing nom (I)"
+PP1AS,PRP,"personal pronoun, 1st pers plur nom (we)"
+PP1O,PRP,"personal pronoun, 1st pers sing acc (me)"
+PP1OS,PRP,"personal pronoun, 1st pers plur acc (us, ‘s)"
+PP2,PRP,"personal pronoun, 2nd pers (you, thou, thee, ye)"
+PP3,PRP,"personal pronoun, 3rd pers sing nom+acc (it)"
+PP3A,PRP,"personal pronoun, 3rd pers sing nom (he, she)"
+PP3AS,PRP,"personal pronoun, 3rd pers plur nom (they)"
+PP3O,PRP,"personal pronoun, 3rd pers plur acc (him, her)"
+PP3OS,PRP,"personal pronoun, 3rd pers plur acc (them, ‘em)"
+PPL,PRP,singular reflexive pronoun
+PPLS,PRP,"plural reflexive pronoun, reciprocal pronoun"
+"(PPLS""",PRP,"each other, one another"
+QL,RB,"qualifier (as, awfully, less, more, so, too very, etc)"
+QLP,RB,"post-qualifier (enough, indeed)"
+RB,RB,adverb 7.10 7.11
+"(RB""",RB,"at last, in general, etc"
+RB$,RB,adverb + genitive (else’s)
+RBR,RBR,comparative adverb 7.10 - 7.11
+RBT,RBS,superlative adverb 7.10 - 7.11
+RI,RB,"adverb (homograph of preposition: below, near, etc)"
+RN,RB,"nominal adverb (here, now, there, then, etc)"
+RP,RP,"adverbial particle (back, down, off, etc) 7.10, 7.13"
+TO,TO,infinitival to 7.13
+"(TO""",TO,"in order to, so as to"
+UH,UH,interjection 7.18
+VB,VB,"base form of verb (uninflected present tense, imperative, infinitive) 7.5"
+"(VB""",VB,
+VBD,VBD,past tense of verb 7.3
+VBG,VBG,"present participle, gerund 7.4"
+VBN,VBN,past participle 7.3
+VBZ,VBZ,3rd person singular of verb
+WDT,WDT,"WH-determiner (what, whatever, whatsoever, interrogative which, whichever, whichsoever) 7.16"
+"(WDT""",WDT,
+WDTR,WDT,"WH-determiner, relative (which) 7.16"
+WP,WP,"WH-pronoun, interrogative, nom+acc (who, whoever)"
+WP$,WP$,"WH-pronoun, interrogative, gen (whose)"
+WP$R,WP$,"WH-pronoun, relative, gen (whose)"
+WPA,WP,"WH-pronoun, nom (whosoever)"
+WPO,WP,"WH-pronoun, interrogative, acc (whom, whomsoever)"
+WPOR,WP,"WH-pronoun, relative, acc (whom)"
+WPR,WP,"WH-pronoun, relative, nom+acc (that, relative who)"
+WRB,WRB,"WB-adverb (how, when, etc) 7.16"
+XNOT,RB,"not, n’t 5.3"
+ZZ,NN,"letter of the alphabet (e, pi, x, etc) 7.25"
+POS,POS,x
